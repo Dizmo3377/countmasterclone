@@ -1,0 +1,12 @@
+RUS---
+
+Данный проект является проектом для портфолио Зозули Дмитрия.
+Проект - клон известной казуальной мобильной игры - "Count Master" (100 000 000+ Загрузок).
+Проект НЕ ДЛЯ КОММЕРЧЕСКОГО ИСПОЛЬЗОВАНИЯ, а для ознакомления с кодом программиста.
+
+
+ENG---
+
+This project is a project for Dmitry Zozuly's portfolio.
+The project is a clone of the famous casual mobile game - "Count Master" (100 000 000+ Downloads).
+The project is NOT FOR COMMERCIAL USE, it`s for familiarization with the programmer's code.
